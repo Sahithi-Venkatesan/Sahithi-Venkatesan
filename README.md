@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="360" height="360"/>
 </p>
 
+###### ![Sahithi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahithi-Venkatesan&show_icons=true&theme=merko&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahithi-Venkatesan&langs_count=10&show_icons=true&theme=merko&count_private=true&layout=compact)](https://github.com/Sahithi-Venkatesan/github-readme-stats)
+
 <p align="center">
   <a href="https://github.com/Sahithi-Venkatesan" alt="GitHub"><img src="https://img.icons8.com/fluent/72/000000/github.png"></a>
   <a href="https://sahithi-venkatesan.github.io/" alt="Website"><img src="https://img.icons8.com/bubbles/72/000000/domain.png"></a>
@@ -14,4 +16,4 @@
   <a href="https://www.snapchat.com/add/sahithi1011"><img src="https://img.icons8.com/plasticine/72/000000/snapchat.png"/></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahithi-Venkatesan&langs_count=10&layout=compact&bg_color=0,141e30,0f141e&title_color=fff&text_color=fff](https://github.com/Sahithi-Venkatesan/Sahithi-Venkatesan)
+
