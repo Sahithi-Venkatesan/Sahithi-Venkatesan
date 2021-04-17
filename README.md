@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="360" height="360"/>
 </p>
 
-###### ![Sahithi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahithi-Venkatesan&show_icons=true&theme=merko&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahithi-Venkatesan&langs_count=10&show_icons=true&theme=merko&count_private=true&layout=compact)](https://github.com/Sahithi-Venkatesan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahithi-Venkatesan&langs_count=10&show_icons=true&theme=merko&count_private=true&layout=compact&card_width=1200)](https://github.com/Sahithi-Venkatesan/github-readme-stats)
 
 <p align="center">
   <a href="https://github.com/Sahithi-Venkatesan" alt="GitHub"><img src="https://img.icons8.com/fluent/72/000000/github.png"></a>
