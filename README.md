@@ -13,3 +13,5 @@
   <a href="https://www.facebook.com/Sahithi.Venkatesan" alt="Facebook"><img src="https://img.icons8.com/fluent/72/000000/facebook-new.png"></a>
   <a href="https://www.snapchat.com/add/sahithi1011"><img src="https://img.icons8.com/plasticine/72/000000/snapchat.png"/></a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahithi-Venkatesan&langs_count=10&layout=compact&bg_color=0,141e30,0f141e&title_color=fff&text_color=fff](https://github.com/Sahithi-Venkatesan/Sahithi-Venkatesan)
